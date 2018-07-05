@@ -724,7 +724,7 @@ msgstr "Контекст:"
 #: code:addons/web/static/src/js/services/crash_manager.js:132
 #, python-format
 msgid "Copied !"
-msgstr ""
+msgstr "Скопійовано!"
 
 #. module: web
 #. openerp-web
@@ -2152,7 +2152,7 @@ msgstr "Звіт"
 #: code:addons/web/static/src/js/fields/basic_fields.js:1632
 #, python-format
 msgid "Restore"
-msgstr ""
+msgstr "Відновлення"
 
 #. module: web
 #. openerp-web
